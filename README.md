@@ -13,7 +13,7 @@ I am mentally retarded and i write bad code sorry :)
 
 ## Community
 
-![Discord](https://img.shields.io/discord/701530051140780102?color=5260E6&label=Discord&logo=discord&logoColor=white&style=for-the-badge)(https://discord.gg/NgMSmNF7yJ)
+[![Discord](https://img.shields.io/discord/701530051140780102?color=5260E6&label=Discord&logo=discord&logoColor=white&style=for-the-badge)(https://discord.gg/NgMSmNF7yJ)]
 ![Matrix](https://img.shields.io/matrix/atmachine-general:matrix.org?color=%230DBD8B&label=Matrix&logo=matrix&style=for-the-badge)
 
 ## Donate
