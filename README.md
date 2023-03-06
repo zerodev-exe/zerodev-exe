@@ -6,6 +6,7 @@ I am mentally retarded and i write bad code sorry :)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0dev-byte&layout=compact&theme=tokyonight)
 
+![Ferris](./imgs/cuddlyferris.png)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Zer0_dev_)
 
@@ -13,10 +14,8 @@ I am mentally retarded and i write bad code sorry :)
 
 ## Community
 
-[![Discord](https://img.shields.io/discord/701530051140780102?color=5260E6&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/NgMSmNF7yJ)
+[![Discord](https://img.shields.io/discord/1059674507616469013?color=5260E6&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/NgMSmNF7yJ)
 
-## Donate
-
+## Donate if you want to :)
 [![Github Sponsors](https://img.shields.io/badge/Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Zer0dev-byte)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/zerodev)
-[![Paypal](https://img.shields.io/badge/Paypal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.com/paypalme/ivanthekiller)
