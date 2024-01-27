@@ -1,6 +1,6 @@
 # Hello there :wave:
 
-I am mentally retarded and i write bad code sorry :)
+Rustling at heart
 
 ![Ferris](./imgs/cuddlyferris.png)
 
